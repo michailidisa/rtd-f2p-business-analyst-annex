@@ -56,9 +56,9 @@ Run all cells from top to bottom. The input is a CSV file in `data/`, and output
 ## Essential limitations
 
 - The 12 projects are **hand-picked**, not a representative sample and not a CORDIS data export.
-- Grant identifiers, acronyms, titles and links point to public CORDIS project records; `short_description` and `example_domain` are **analyst-prepared**, not official metadata.
+- Grant identifiers, acronyms, titles and links point to public CORDIS project records; `short_description` and `example_domain` are **illustrative descriptions prepared for this exercise**, not official metadata.
 - URL format is checked by the notebook, **not live page availability or project-data currency**.
 - The simple matching rule can miss relevant projects or return irrelevant ones. The exported `user_relevance` fields are intentionally **blank**: no policy officers have reviewed these examples.
-- Project aims are **not verified research findings**. There are no AI-generated claims, scientific synthesis or policy recommendations.
+- Project aims are **not verified research findings**. The notebook does not use AI services or generate scientific conclusions or policy recommendations.
 
 A real F2P use case would require agreed policy objectives, an authorised representative data source, data-quality checks, user-labelled examples, assessment of existing tools and governance approval before wider implementation.
