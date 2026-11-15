@@ -37,12 +37,6 @@ The default example question concerns **digital education solely to illustrate t
 | [`docs/limitations.md`](docs/limitations.md) | Data/source assumptions and restrictions on interpretation. |
 | [`GITHUB_UPLOAD.md`](GITHUB_UPLOAD.md) | Instructions for publishing the files in a GitHub repository. |
 
-## View without running code
-
-GitHub displays the notebook and its executed outputs in the browser. The [one-page conceptual appendix](docs/optional_appendix.pdf) also works without Python.
-
-![Illustrative requirements-to-feasibility workflow](docs/conceptual_framework.png)
-
 ## Run locally (optional)
 
 Use Python 3.10+ and install the small set of dependencies:
@@ -52,7 +46,7 @@ python -m pip install -r requirements.txt
 jupyter notebook notebooks/01_project_discovery.ipynb
 ```
 
-Run all cells from top to bottom. The input is a CSV file in `data/`, and output files are written to `outputs/`. It should also run in VS Code with the Python and Jupyter extensions. **No login, API key, model, or private Commission data is required.**
+Run all cells from top to bottom. The input is a CSV file in `data/`, and output files are written to `outputs/`. It should also run in VS Code with the Python and Jupyter extensions. **No login, API key, model, or private data is required.**
 
 ## How this connects to the written note
 
@@ -73,5 +67,3 @@ Run all cells from top to bottom. The input is a CSV file in `data/`, and output
 - Project aims are **not verified research findings**. There are no AI-generated claims, scientific synthesis or policy recommendations.
 
 A real F2P use case would require agreed policy objectives, an authorised representative data source, data-quality checks, user-labelled examples, assessment of existing tools and governance approval before wider implementation.
-
-**Public source:** [CORDIS](https://cordis.europa.eu/), European Commission.
