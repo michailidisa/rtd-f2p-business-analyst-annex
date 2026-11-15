@@ -1,0 +1,13 @@
+grant_id,acronym,project_title,example_domain,cordis_url,candidate,matched_terms,user_relevance,user_comment
+101297101,Solhyd,Worldwide Unique Solar Hydrogen Modules: Built for industry. Designed for renewables.,Energy,https://cordis.europa.eu/project/id/101297101,False,,,
+101124803,X-STREAM,Power-to-X: STREAMing Hydrogen from 3-Band Solar Cells boosted with Photonic Management,Energy,https://cordis.europa.eu/project/id/101124803,False,,,
+101209110,SUNKID,Single jUNction perovsKIte solar cell powereD hydrogen production,Energy,https://cordis.europa.eu/project/id/101209110,False,,,
+805524,BioInspired_SolarH2,Engineering Bio-Inspired Systems for the Conversion of Solar Energy to Hydrogen,Energy,https://cordis.europa.eu/project/id/805524,False,,,
+101060918,EMPOWER,Design and evaluation of technological support tools to empower stakeholders in digital education,Education,https://cordis.europa.eu/project/id/101060918,True,"digital, education",,
+101061424,e-DIPLOMA,"Electronic, Didactic and Innovative Platform for Learning based On Multimedia Assets",Education,https://cordis.europa.eu/project/id/101061424,True,"digital, education, learning",,
+101244212,EIHEUDL,Enhancing Inclusivity in Higher Education through Universal Design for Learning,Education,https://cordis.europa.eu/project/id/101244212,True,"education, learning",,
+101310819,SandCASLE,Creating Adaptive Special Learning Educational environments,Education,https://cordis.europa.eu/project/id/101310819,True,"education, learning",,
+101095654,THCS,European Partnership on Transforming Health and Care Systems,Health,https://cordis.europa.eu/project/id/101095654,False,,,
+101136424,EDiHTA,The first European Digital Health Technology Assessment framework co-created by all stakeholders along the value chain,Health,https://cordis.europa.eu/project/id/101136424,False,digital,,
+101218845,UNIFIED,Unifying Framework for Patient-centred Clinical-study Endpoints derived from Digital Health Technologies,Health,https://cordis.europa.eu/project/id/101218845,False,digital,,
+101311180,DEEP-HEALTH,STRENGTHENING RESEARCH EXCELLENCE AND INNOVATION IN DIGITAL HEALTH ACROSS WIDENING EUROPE,Health,https://cordis.europa.eu/project/id/101311180,False,digital,,
