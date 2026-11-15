@@ -19,7 +19,6 @@ The aim is to demonstrate **basic, coherent use of GitHub and Jupyter**, not to 
 3. Checks essential fields, duplicate identifiers and link format.
 4. Applies a simple, explainable **keyword screening baseline**.
 5. Exports both **selected and excluded projects** for user review.
-6. Identifies the next user-validation questions and the **reuse / refine / pilot / stop** decision.
 
 The default example question concerns **digital education solely to illustrate the method**. It can be replaced in the first code cell; the written note does **not** assume any specific policy topic has been agreed with users. No AI is used in the notebook.
 
